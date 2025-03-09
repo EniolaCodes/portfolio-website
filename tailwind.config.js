@@ -8,8 +8,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        vsCodeBg: "#1E1E1E",
+        vsCodeSidebar: "#252526",
+        vsCodeEditor: "#333",
+        vsCodeText: "#D4D4D4",
+        vsCodeBlue: "#007ACC",
       },
     },
   },
